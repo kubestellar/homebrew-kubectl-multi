@@ -9,3 +9,4 @@ brew install kubestellar/kubectl-multi/kubectl-multi
 
 kubectl-multi -v
 ```
+<!-- CI Test: 2026-01-13T03:00:40Z -->
